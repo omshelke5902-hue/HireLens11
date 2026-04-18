@@ -67,7 +67,7 @@ Frontend → Backend → AI Engine → Feedback System → User Dashboard
 
 ## 👤 Author
 
-**Varad V. Pandharkar**
+**Om Shelke**
 ---
 
 ## ⭐ Support
